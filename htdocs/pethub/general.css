@@ -1,0 +1,12 @@
+html{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #ffff;
+}
+body{
+  margin: 0;
+  padding: 0;
+  padding-top: 64px;
+  font-family: 'Georama';
+}
